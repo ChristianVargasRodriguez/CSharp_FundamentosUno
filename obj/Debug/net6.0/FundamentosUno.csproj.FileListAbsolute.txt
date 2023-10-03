@@ -1,0 +1,15 @@
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosUno\bin\Debug\net6.0\FundamentosUno.exe
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosUno\bin\Debug\net6.0\FundamentosUno.deps.json
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosUno\bin\Debug\net6.0\FundamentosUno.runtimeconfig.json
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosUno\bin\Debug\net6.0\FundamentosUno.dll
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosUno\bin\Debug\net6.0\FundamentosUno.pdb
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosUno\obj\Debug\net6.0\FundamentosUno.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosUno\obj\Debug\net6.0\FundamentosUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosUno\obj\Debug\net6.0\FundamentosUno.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosUno\obj\Debug\net6.0\FundamentosUno.AssemblyInfo.cs
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosUno\obj\Debug\net6.0\FundamentosUno.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosUno\obj\Debug\net6.0\FundamentosUno.dll
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosUno\obj\Debug\net6.0\refint\FundamentosUno.dll
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosUno\obj\Debug\net6.0\FundamentosUno.pdb
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosUno\obj\Debug\net6.0\FundamentosUno.genruntimeconfig.cache
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\FundamentosUno\obj\Debug\net6.0\ref\FundamentosUno.dll
